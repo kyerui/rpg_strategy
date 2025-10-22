@@ -1,0 +1,1 @@
+Em um RPG medieval, diferentes classes de personagens podem utilizar variados tipos de armas, cada uma com efeitos especiais únicos. O sistema deve ser flexível para adicionar novas armas e personagens. Implementado usando lua e o padrão Strategy.
